@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Times';
+  font-display: swap;
+  src: url('/fonts/Times.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'HYShuSongYiJ';
+  font-display: swap;
+  src: url('/fonts/HYShuSongYiJ.ttf') format("truetype");
+}
