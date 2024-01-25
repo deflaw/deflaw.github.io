@@ -3,11 +3,11 @@
   <title>LegalCompetitions</title>
   
   <subtitle>法律竞赛</subtitle>
-  <link href="https://deflaw.github.io/Carl_Shun.github.io/atom.xml" rel="self"/>
+  <link href="https://deflaw.github.io/atom.xml" rel="self"/>
   
-  <link href="https://deflaw.github.io/Carl_Shun.github.io/"/>
+  <link href="https://deflaw.github.io/"/>
   <updated>2024-01-25T09:50:26.313Z</updated>
-  <id>https://deflaw.github.io/Carl_Shun.github.io/</id>
+  <id>https://deflaw.github.io/</id>
   
   <author>
     <name>LegalCompetitions</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://deflaw.github.io/Carl_Shun.github.io/2024/01/24/hello-world/"/>
-    <id>https://deflaw.github.io/Carl_Shun.github.io/2024/01/24/hello-world/</id>
+    <link href="https://deflaw.github.io/2024/01/24/hello-world/"/>
+    <id>https://deflaw.github.io/2024/01/24/hello-world/</id>
     <published>2024-01-24T13:14:08.995Z</published>
     <updated>2024-01-25T09:50:26.313Z</updated>
     
