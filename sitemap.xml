@@ -158,13 +158,6 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/IHL/</loc>
-    <lastmod>2024-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://deflaw.github.io/tags/JESSUP/</loc>
     <lastmod>2024-05-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,7 +179,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>https://deflaw.github.io/tags/IHL/</loc>
     <lastmod>2024-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -220,6 +213,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://deflaw.github.io/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2024-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -231,13 +231,6 @@
   
   <url>
     <loc>https://deflaw.github.io/categories/ICC/</loc>
-    <lastmod>2024-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/categories/IHL/</loc>
     <lastmod>2024-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -265,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/categories/%E8%AE%A4%E8%AF%86%E4%B8%80%E4%B8%8B%E6%88%91%EF%BC%9F/</loc>
+    <loc>https://deflaw.github.io/categories/IHL/</loc>
     <lastmod>2024-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,6 +266,13 @@
   
   <url>
     <loc>https://deflaw.github.io/categories/%E4%B9%A6%E6%B5%B7%E6%B4%A5%E9%80%AE/</loc>
+    <lastmod>2024-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/categories/%E8%AE%A4%E8%AF%86%E4%B8%80%E4%B8%8B%E6%88%91%EF%BC%9F/</loc>
     <lastmod>2024-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
