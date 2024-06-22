@@ -33,6 +33,10 @@
     transform: scale(1); /* 鼠标悬停时保持元素大小不变 */
 }
 
+.parent-class .download-btn a {
+    color: white; /* 白色 */
+}
+
 /* 引用按钮和弹出框样式 */
 .citation-button {
     padding: 10px 20px;
