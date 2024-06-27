@@ -275,7 +275,7 @@
  .heti p:not(:lang(zh)) {
    text-align: start;         /* 对于非中文、日文、韩文的段落，文本对齐方式为 start，即根据文本的书写方向自动调整对齐方式 */
  }
-
+/*美化代码块*/
  .heti pre {
    margin-block-start: 12px;
    margin-block-end: 12px;
@@ -484,17 +484,29 @@
  font-weight:600
  }
  .heti figcaption {
- display:inline-block;vertical-align:top;font-size:14px;text-align:start
+     display:inline-block;
+     vertical-align:top;
+     font-size:14px;
+     text-align:start
  }
  .heti i {
  font-style:italic
  }
  .heti ins,
  .heti u {
- padding-block-end:1px;border-block-end:1px solid;text-decoration:none
+     padding-block-end:1px
+     border-block-end:1px solid;
+     text-decoration:none
  }
  .heti mark {
- padding-block-start:2px;padding-block-end:2px;padding-inline-start:1px;padding-inline-end:1px;margin-inline-start:1px;margin-inline-end:1px;background-color:rgba(255,247,0,.88);color:inherit
+    padding-block-start:2px;
+    padding-block-end:2px;
+    padding-inline-start:1px;
+    padding-inline-end:1px;
+    margin-inline-start:1px;
+    margin-inline-end:1px;
+    background-color:rgba(255,247,0,.88);
+    color:inherit
  }
  @media(prefers-color-scheme: dark) {
  .heti mark {
