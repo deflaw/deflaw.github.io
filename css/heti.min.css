@@ -390,22 +390,27 @@
  }
  .heti ul {
    list-style-type: disc;
+   text-align: justify;
  }
  .heti ol {
    list-style-type: decimal;
+   text-align: justify;
  }
  .heti ul ul,
  .heti ol ul {
    list-style-type: circle;
+   text-align: justify;
  }
  .heti ul ul ul,
  .heti ul ol ul,
  .heti ol ul ul,
  .heti ol ol ul {
    list-style-type: square;
+   text-align: justify;
  }
  .heti li {
    list-style-type: unset;
+   text-align: justify;
  }
  .heti table {
    box-sizing: border-box;
