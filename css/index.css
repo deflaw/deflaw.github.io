@@ -1377,7 +1377,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: OldSong;
+  font-family: KingHwa_OldSong;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -2191,7 +2191,7 @@ figure.highlight pre .javascript .function {
   flex: 1 auto;
   margin: 0 auto;
   padding: 40px 15px;
-  max-width: 1200px;
+  max-width: 1300px;
   width: 100%;
 }
 @media screen and (max-width: 900px) {
@@ -2226,7 +2226,7 @@ figure.highlight pre .javascript .function {
   }
 }
 .layout > div:first-child {
-  width: 74%;
+  width: 76%;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;

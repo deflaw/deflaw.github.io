@@ -189,7 +189,7 @@
  }
 
  .heti {
-   max-width: 42em;                      /* 最大宽度为 42em */
+   max-width: 43em;                      /* 最大宽度为 42em */
    font-size: 16px;                       /* 字体大小为 16像素 */
    font-weight: 400;                      /* 字体粗细为普通（400） */
    -webkit-font-smoothing: subpixel-antialiased;  /* 使用亚像素抗锯齿 */
@@ -198,6 +198,7 @@
    word-wrap: break-word;                 /* 单词溢出时自动换行 */
    hyphens: auto;                         /* 自动断字 */
    letter-spacing: 0.02em;                /* 字符间距为 0.02em */
+   margin-left: 4%;
  }
 
  .heti::before,
