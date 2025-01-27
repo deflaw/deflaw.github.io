@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://deflaw.github.io/posts/b93d7789.html</loc>
+    <loc>https://deflaw.github.io/posts/96d5fc72.html</loc>
+    
+    <lastmod>2025-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/posts/e1d2cce4.html</loc>
+    
+    <lastmod>2025-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/posts/5dae0260.html</loc>
+    
+    <lastmod>2025-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/posts/1ffe5b2f.html</loc>
     
     <lastmod>2025-01-27</lastmod>
     
@@ -13,7 +40,25 @@
   <url>
     <loc>https://deflaw.github.io/posts/a1bb29aa.html</loc>
     
-    <lastmod>2025-01-25</lastmod>
+    <lastmod>2025-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/posts/7a62ad9a.html</loc>
+    
+    <lastmod>2025-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/posts/b93d7789.html</loc>
+    
+    <lastmod>2025-01-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -128,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/posts/7a62ad9a.html</loc>
-    
-    <lastmod>2025-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://deflaw.github.io/posts/5cf15621.html</loc>
     
     <lastmod>2025-01-21</lastmod>
@@ -164,25 +200,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/posts/1ffe5b2f.html</loc>
-    
-    <lastmod>2025-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://deflaw.github.io/posts/6c9c926d.html</loc>
-    
-    <lastmod>2025-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/posts/5dae0260.html</loc>
     
     <lastmod>2025-01-21</lastmod>
     
@@ -452,13 +470,6 @@
   
   <url>
     <loc>https://deflaw.github.io/tags/Vis/</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/Research/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
