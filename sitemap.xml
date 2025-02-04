@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://deflaw.github.io/live2dw/assets/shizuku.physics.json</loc>
+    
+    <lastmod>2025-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://deflaw.github.io/posts/b43acc5e.html</loc>
     
     <lastmod>2025-02-03</lastmod>
