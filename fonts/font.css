@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'OldSong, Times';
+  font-display: swap;
+  src: url('/fonts/OldSong.ttf') format("truetype"),
+       url('/fonts/Times.ttf') format("truetype");
+}
+
+body {
+  font-family: 'Times', 'KingHwa_OldSong', serif !important;
+}
