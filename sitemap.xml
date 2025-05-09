@@ -522,14 +522,21 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/Legal-Research/</loc>
+    <loc>https://deflaw.github.io/tags/International-IP-Law/</loc>
     <lastmod>2025-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/International-IP-Law/</loc>
+    <loc>https://deflaw.github.io/tags/%E7%AE%A1%E8%BE%96%E6%9D%83/</loc>
+    <lastmod>2025-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/Legal-Research/</loc>
     <lastmod>2025-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -564,13 +571,6 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/%E7%AE%A1%E8%BE%96%E6%9D%83/</loc>
-    <lastmod>2025-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://deflaw.github.io/tags/IHL/</loc>
     <lastmod>2025-05-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -593,13 +593,6 @@
   
   <url>
     <loc>https://deflaw.github.io/tags/Treaty/</loc>
-    <lastmod>2025-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/Vis/</loc>
     <lastmod>2025-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -656,6 +649,13 @@
   
   <url>
     <loc>https://deflaw.github.io/tags/Jessup/</loc>
+    <lastmod>2025-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/Vis/</loc>
     <lastmod>2025-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
