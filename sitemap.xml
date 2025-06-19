@@ -610,20 +610,6 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/IHRL/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://deflaw.github.io/tags/International-IP-Law/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -645,7 +631,21 @@
   </url>
   
   <url>
+    <loc>https://deflaw.github.io/tags/%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2025-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://deflaw.github.io/tags/%E5%9B%BD%E9%99%85%E6%B3%95%E6%B8%8A%E6%BA%90/</loc>
+    <lastmod>2025-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/IHRL/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -694,7 +694,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/Vis/</loc>
+    <loc>https://deflaw.github.io/tags/%E5%9B%BD%E9%99%85%E6%B3%95%E7%90%86%E8%AE%BA/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -715,7 +715,14 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/%E5%9B%BD%E9%99%85%E6%B3%95%E7%90%86%E8%AE%BA/</loc>
+    <loc>https://deflaw.github.io/tags/%E8%B5%9B%E9%A2%98%E8%A7%A3%E8%AF%BB/</loc>
+    <lastmod>2025-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/FDI/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -736,28 +743,21 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/Oral/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/%E8%B5%9B%E9%A2%98%E8%A7%A3%E8%AF%BB/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/FDI/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://deflaw.github.io/tags/%E8%B5%9B%E4%BA%8B%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2025-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/Vis/</loc>
+    <lastmod>2025-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/Oral/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
