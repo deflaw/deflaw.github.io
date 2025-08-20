@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://deflaw.github.io/posts/OBOHistoryIL.html</loc>
+    
+    <lastmod>2025-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/posts/NicaraguavGermany.html</loc>
+    
+    <lastmod>2025-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://deflaw.github.io/posts/2fff02ca.html</loc>
     
     <lastmod>2025-07-16</lastmod>
@@ -720,28 +738,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/Legal-Research/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/Int%E2%80%99l-IP-Law/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://deflaw.github.io/tags/%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/%E7%AE%A1%E8%BE%96%E6%9D%83/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -755,7 +752,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/ICC/</loc>
+    <loc>https://deflaw.github.io/tags/Int%E2%80%99l-IP-Law/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -769,21 +766,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/IHL/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/Memorial-Writing/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E4%BB%8B/</loc>
+    <loc>https://deflaw.github.io/tags/ICJcase/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -797,7 +780,14 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/%E5%9B%BD%E9%99%85%E6%8A%95%E8%B5%84%E6%B3%95/</loc>
+    <loc>https://deflaw.github.io/tags/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E4%BB%8B/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/%E7%AE%A1%E8%BE%96%E6%9D%83/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -811,14 +801,7 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deflaw.github.io/tags/Jessup/</loc>
+    <loc>https://deflaw.github.io/tags/OBO/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -839,6 +822,20 @@
   </url>
   
   <url>
+    <loc>https://deflaw.github.io/tags/FDI/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/%E5%9B%BD%E9%99%85%E6%8A%95%E8%B5%84%E6%B3%95/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://deflaw.github.io/tags/VCLT/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -853,14 +850,49 @@
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/FDI/</loc>
+    <loc>https://deflaw.github.io/tags/%E8%B5%9B%E4%BA%8B%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://deflaw.github.io/tags/%E8%B5%9B%E4%BA%8B%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>https://deflaw.github.io/tags/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/Jessup/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/ICC/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/IHL/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/Legal-Research/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deflaw.github.io/tags/Memorial-Writing/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
